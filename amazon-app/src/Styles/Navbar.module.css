@@ -1,0 +1,70 @@
+*{
+    color: aliceblue;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    size: 12px;
+    line-height: 14px;
+    color: #ffff;
+}
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background-color: #131921;
+    padding-right: 20px;
+}
+.image{
+    height: 50px;
+    /* width:100px; */
+}
+.img_sz{
+    height: 100%;
+}
+.add{
+    display: grid;
+    /* width: 30px; */
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+}
+
+select > option{
+    color: black;
+}
+.search{
+    width: 45%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.skt{
+    width: 10%;
+    color: black;
+    background-color: #f3f3f3;
+}
+.ipt{
+    width:85%;
+}
+.btn{
+    width: 5%;
+    height: 40px;
+    background-color: #febd69;
+}
+.language{
+    width: 50px;
+    height: 40px;
+    color: #131921;
+    /* border: null ; */
+}
+.cart{
+    width:70px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
