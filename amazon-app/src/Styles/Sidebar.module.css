@@ -1,0 +1,9 @@
+.side{
+    width: 15%;
+    position: relative;
+    height:700px;
+    border: 1px solid red;
+    left: 0px;
+    top: 0px;
+    background-color: aqua;
+}
